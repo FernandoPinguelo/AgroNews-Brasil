@@ -18,8 +18,6 @@ AgroNews Brasil é um portal de notícias 100% funcional e autônomo, desenvolvi
 
 ## 🚀 Demonstração ao Vivo
 
-🔗 **URL do site:** 
-https://github.com/FernandoPinguelo/AgroNews-Brasil/tree/main/https%3A/github.com/FernandoPinguelo
 ## ✨ Funcionalidades
 
 ### Principais Recursos
